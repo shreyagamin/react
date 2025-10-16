@@ -1,0 +1,4 @@
+sum:15
+Difference:Difference:5
+Multiply:50
+Quotient:2
